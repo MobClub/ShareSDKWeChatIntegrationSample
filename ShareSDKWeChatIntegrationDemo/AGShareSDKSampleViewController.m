@@ -9,7 +9,7 @@
 #import "AGShareSDKSampleViewController.h"
 #import <ShareSDK/ShareSDK.h>
 #import <AGCommon/UIDevice+Common.h>
-#import <AGCommon/UIView+Common.h>
+#import "UIView+Common.h"
 #import "WXApi.h"
 
 
